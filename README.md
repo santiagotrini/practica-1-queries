@@ -32,3 +32,5 @@
 18. Contar la cantidad de provincias.
 19. ¿Cuántos gobernadores llamados Gustavo hay?
 20. ¿Cuáles son las capitales de las provincias de Cuyo?
+21. Dar una lista con todas las provincias indicando hace cuantos años son autónomas.
+22. Listar las 23 provincias de la Argentina anteponiendo "Provincia de ". Por ejemplo en vez de escribir "Buenos Aires" debe decir "Provincia de Buenos Aires".
