@@ -34,3 +34,20 @@
 20. ¿Cuáles son las capitales de las provincias de Cuyo?
 21. Dar una lista con todas las provincias indicando hace cuantos años son autónomas.
 22. Listar las 23 provincias de la Argentina anteponiendo "Provincia de ". Por ejemplo en vez de escribir "Buenos Aires" debe decir "Provincia de Buenos Aires".
+23. ¿Cuál es la provincia más poblada de la Patagonia?
+24. Buscar las capitales donde el gobernador se llama "Juan" o de provincias con más de 3 millones de habitantes.
+25. Listar las provincias poniendo por ejemplo, para Buenos Aires: "En Buenos Aires gobierna Axel Kicillof y la capital es La Plata".
+
+## Conceptos
+
+- Introducción a las queries. Consultas con una única tabla.
+- Claúsulas `SELECT`, `FROM` y `WHERE`.
+- Claúsula `ORDER BY`. Orden ascendente y descendente con `ASC` y `DESC`.
+- Filtros: operadores lógicos: `AND`, `OR` y `NOT`.
+- Filtros: operadores de comparación, `BETWEEN`, `IN`, `IS NULL` y `LIKE`.
+- Filtros: uso de comodines `%` y `_` con `LIKE`.
+- Operadores aritméticos, funciones de agregado: `SUM()` y `COUNT()`
+- Operaciones con fechas: `YEAR()` y `CURRENT_TIMESTAMP`.
+- Limitar resultados con `LIMIT`.
+- Concatenación de `strings` con `CONCAT()` y alias con `AS`.
+- Función `CASE` en MySQL.
